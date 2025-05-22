@@ -12,7 +12,5 @@ A console-based Java project that performs basic CRUD operations on student reco
 You can try the program using this online compiler:  
 👉 [https://www.onlinegdb.com/online_java_compiler#]
 
-## Author
-**Aishwarya Chavan**  
-[LinkedIn](https://linkedin.com/in/aishwarya) • [GitHub](https://github.com/aishwarya)
+
 
