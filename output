@@ -1,0 +1,87 @@
+----- Student Record Management -----
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Delete Student
+5. Exit
+Enter your choice: 1
+Enter Roll No: 41630 
+Enter Name: AISHWARYA CHAVAN
+Enter Marks: 85.25
+Student added successfully!
+
+----- Student Record Management -----
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Delete Student
+5. Exit
+Enter your choice: 1
+Enter Roll No: 41633
+Enter Name: ARYA LOKHANDE
+Enter Marks: 75.69
+Student added successfully!
+
+----- Student Record Management -----
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Delete Student
+5. Exit
+Enter your choice: 2
+
+=== Student Records ===
+
+Roll No: 41630
+Name: AISHWARYA CHAVAN
+Marks: 85.25
+
+Roll No: 41633
+Name: ARYA LOKHANDE
+Marks: 75.69
+
+----- Student Record Management -----
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Delete Student
+5. Exit
+Enter your choice: 3
+Enter Roll No to search: 41630
+
+Roll No: 41630
+Name: AISHWARYA CHAVAN
+Marks: 85.25
+
+----- Student Record Management -----
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Delete Student
+5. Exit
+Enter your choice: 4
+Enter Roll No to delete: 41633
+Student deleted successfully.
+
+----- Student Record Management -----
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Delete Student
+5. Exit
+Enter your choice: 2
+
+=== Student Records ===
+
+Roll No: 41630
+Name: AISHWARYA CHAVAN
+Marks: 85.25
+
+----- Student Record Management -----
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Delete Student
+5. Exit
+Enter your choice: 5
+Exiting program...
